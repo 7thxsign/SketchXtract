@@ -2,8 +2,6 @@
 
 *Transform hand-drawn face sketches into realistic AI-generated images*
 
-![SketchXtract](assets/icons/app_icon_main.png)
-
 ## Overview
 
 **SketchXtract** is an Android application built with Flutter that allows users to sketch rough faces of male or female culprits/criminals and instantly transform them into realistic, life-like photos. This innovative tool leverages a modified version of the DeepFaceDrawing-Jittor model for fast, GPU-accelerated sketch-to-image generation.
